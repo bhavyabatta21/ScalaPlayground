@@ -52,8 +52,8 @@ ScalaFundamentals/
 2.	Open the project in IntelliJ IDEA or your preferred Scala IDE.
 3.	Use SBT to compile and run specific modules:
  ```
-sbt compile
-sbt run
+   sbt compile
+   sbt run
 ```
 4.	Explore the code in the src/main/scala/com.bblearning directory.
 
